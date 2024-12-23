@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello i am fine what about you
+=======
+Hi how are you
+>>>>>>> b514a98b97224372651b3c512294fe17f219a0ee
 =======
 Hi how are you
 >>>>>>> b514a98b97224372651b3c512294fe17f219a0ee
